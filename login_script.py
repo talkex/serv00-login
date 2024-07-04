@@ -100,7 +100,7 @@ def send_telegram_message(message):
                 [
                     {
                         'text': '问题反馈❓',
-                        'url': 'https://t.me/yxjsjl'
+                        'url': 'https://t.me/LXM688'
                     }
                 ]
             ]
